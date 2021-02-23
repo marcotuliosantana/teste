@@ -30,10 +30,10 @@ export const products = {
     },
     {
       name: "302. Picanha ao alho ",
-      description: "Acompanha mandioca R$ 71.99",
+      description: "Acompanha mandioca",
       alt: "Picanha ao alho ",
       image: "2.png",
-      price: "Acompanha fritas R$ 68.99",
+      price: "71.99",
     },
     {
       name: "3021. Picanha ao alho ",
